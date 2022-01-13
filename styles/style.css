@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(240, 238, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+header {
+    padding: 20px;
+    height: 100px;
+    background-size: 400px;
+    background-color: #dee2e6;
+    
+}
+
+header a {
+    color: rgb(205, 151, 50);
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 60px;
+}
+
+
+.features {
+    background: white;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.features figure {
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+
+.features figure img {
+    border: 4px solid white;
+    border-radius: 10px;
+    box-shadow: rgb(205, 151, 50) 5px 5px 5px;
+    width: 200px;
+    display: inline-block;
+}
+
+
+
+footer {
+    background: black;
+    color: gray;
+    font-size: 15px;
+    padding: 20px, 20px;
+    text-align: center;
+    
+}
+
+.images {
+    background: white;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+ 
+.images figure {
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+
+.images figure img {
+    border: 4px solid white;
+    border-radius: 10px;
+    box-shadow: rgb(205, 151, 50) 5px 5px 5px;
+    width: 200px;
+    display: inline-block;
+}
+
+.beverage {
+    background: white;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.beverage figure {
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+
+.beverage figure img{
+    border: 4px solid white;
+    border-radius: 10px;
+    box-shadow: rgb(205, 151, 50) 5px 5px 5px;
+    width: 200px;
+    display: inline-block;
+}
+
+.geo {
+    background: white;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.geo figure {
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+
+.geo figure img {
+    border: 4px solid white;
+    border-radius: 10px;
+    box-shadow: rgb(205, 151, 50) 5px 5px 5px;
+    width: 200px;
+    display: inline-block;
+}
+
+.btn-btn {
+    border: 50px solid rgb(205, 151, 50) 5px 5px 5px;
+border-radius: 5px;
+width: 10px;
+margin-right: 20px;
+}
+
+.logo1 img {
+    width: 350px;
+    height: 150px;
+    
+    
+}
